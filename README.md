@@ -23,7 +23,7 @@ This webapp has been made using flask in python.
 
 ## Running the program
 
-- First, install all the requirements:
+- requirements:
     - `sudo apt-get update`
     - `sudo apt-get install python3.6`
     - `pip3 install Flask`
@@ -31,11 +31,4 @@ This webapp has been made using flask in python.
     - `pip3 install flask-hashing`
     - `pip3 install flask-uploads`
 
-- Use command
-    - `python controller.py`
-- Open the this [url](http://127.0.0.1:5000) on browser
 
-## File Structure
-
- * [app.py](./app.py)
- * [model.py](./model.py)
