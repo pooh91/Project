@@ -17,7 +17,7 @@ This webapp has been made using flask in python.
 - Products are categorized into 4 categories 
 - There is a search bar which can be used to filter products
 - Products can be added to cart
-- In My Cart, All selected products are listed which can be deleted or can be checked out
+- In My Cart, All selected products are listed 
 - Actual payment is not implemented
 - In seller portal, seller can add products to sell after filling a few details still working
 
