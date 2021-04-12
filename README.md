@@ -24,8 +24,7 @@ This webapp has been made using flask in python.
 ## Running the program
 
 - requirements:
-    - `sudo apt-get update`
-    - `sudo apt-get install python3.6`
+    
     - `pip3 install Flask`
     - `pip3 install Flask-SQLAlchemy`
     - `pip3 install flask-hashing`
